@@ -1,2 +1,2 @@
 # practice-html
-a simple html structure for students to explore
+a simple html structure for students to explore.
